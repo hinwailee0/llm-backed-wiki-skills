@@ -1,0 +1,6 @@
+interface:
+  display_name: "Collect YT Transcript"
+  short_description: "Collect YouTube transcripts as Markdown"
+  default_prompt: "Use $collect-yt-transcript to collect clean Markdown transcripts from these YouTube videos."
+policy:
+  allow_implicit_invocation: true
